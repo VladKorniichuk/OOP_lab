@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\w69943\\Desktop\\lab2_oop\\",
+  "WorkspaceRootPath": "C:\\Users\\w69943\\Downloads\\OOP_lab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99F0D2F2-1EC7-4768-AB97-F3FB6C56C363}|lab2_oop\\lab2_oop.csproj|c:\\users\\w69943\\desktop\\lab2_oop\\lab2_oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99F0D2F2-1EC7-4768-AB97-F3FB6C56C363}|lab2_oop\\lab2_oop.csproj|c:\\users\\w69943\\downloads\\oop_lab\\lab2_oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99F0D2F2-1EC7-4768-AB97-F3FB6C56C363}|lab2_oop\\lab2_oop.csproj|solutionrelative:lab2_oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99F0D2F2-1EC7-4768-AB97-F3FB6C56C363}|lab2_oop\\lab2_oop.csproj|c:\\users\\w69943\\desktop\\lab2_oop\\lab2_oop\\constructions\\construction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99F0D2F2-1EC7-4768-AB97-F3FB6C56C363}|lab2_oop\\lab2_oop.csproj|c:\\users\\w69943\\downloads\\oop_lab\\lab2_oop\\constructions\\dto\\createconstructiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F0D2F2-1EC7-4768-AB97-F3FB6C56C363}|lab2_oop\\lab2_oop.csproj|solutionrelative:lab2_oop\\constructions\\dto\\createconstructiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F0D2F2-1EC7-4768-AB97-F3FB6C56C363}|lab2_oop\\lab2_oop.csproj|c:\\users\\w69943\\downloads\\oop_lab\\lab2_oop\\constructions\\construction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99F0D2F2-1EC7-4768-AB97-F3FB6C56C363}|lab2_oop\\lab2_oop.csproj|solutionrelative:lab2_oop\\constructions\\construction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,17 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CreateConstructionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\w69943\\Downloads\\OOP_lab\\lab2_oop\\Constructions\\DTO\\CreateConstructionDTO.cs",
+              "RelativeDocumentMoniker": "lab2_oop\\Constructions\\DTO\\CreateConstructionDTO.cs",
+              "ToolTip": "C:\\Users\\w69943\\Downloads\\OOP_lab\\lab2_oop\\Constructions\\DTO\\CreateConstructionDTO.cs*",
+              "RelativeToolTip": "lab2_oop\\Constructions\\DTO\\CreateConstructionDTO.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T09:53:07.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Construction.cs",
-              "DocumentMoniker": "C:\\Users\\w69943\\Desktop\\lab2_oop\\lab2_oop\\Constructions\\Construction.cs",
+              "DocumentMoniker": "C:\\Users\\w69943\\Downloads\\OOP_lab\\lab2_oop\\Constructions\\Construction.cs",
               "RelativeDocumentMoniker": "lab2_oop\\Constructions\\Construction.cs",
-              "ToolTip": "C:\\Users\\w69943\\Desktop\\lab2_oop\\lab2_oop\\Constructions\\Construction.cs",
-              "RelativeToolTip": "lab2_oop\\Constructions\\Construction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\w69943\\Downloads\\OOP_lab\\lab2_oop\\Constructions\\Construction.cs*",
+              "RelativeToolTip": "lab2_oop\\Constructions\\Construction.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T08:57:17.291Z",
               "EditorCaption": ""
@@ -37,11 +54,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\w69943\\Desktop\\lab2_oop\\lab2_oop\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\w69943\\Downloads\\OOP_lab\\lab2_oop\\Program.cs",
               "RelativeDocumentMoniker": "lab2_oop\\Program.cs",
-              "ToolTip": "C:\\Users\\w69943\\Desktop\\lab2_oop\\lab2_oop\\Program.cs*",
+              "ToolTip": "C:\\Users\\w69943\\Downloads\\OOP_lab\\lab2_oop\\Program.cs*",
               "RelativeToolTip": "lab2_oop\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T08:34:09.374Z",
               "EditorCaption": ""
